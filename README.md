@@ -4,6 +4,6 @@
 ##### *Analysis on Kickstarter data to reveal trends* 
 ---
 ##### Description
-![Parent Company Outcomes](path/to/parentcompanyoutcomes.png)
+![Parent Company Outcomes](parentcompanyoutcomes.png)
 ---
 ##### Recommendations
