@@ -16,8 +16,12 @@
 ### Analysis of Outcomes Based on Launch Date
 ##### 	From the Outcomes Based on Goals chart we can see that Theatre Kickstarter campaigns were mostly successful if launched in May and June.  
 
+![alt text](Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 ##### Theatre Kickstarter campaigns with goals less than $5000 are more successful. 
+
+
 
 ### Challenges and Difficulties Encountered
 ##### What are some limitations of this dataset?
