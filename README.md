@@ -21,7 +21,7 @@
 ### Analysis of Outcomes Based on Goals
 ##### Theatre Kickstarter campaigns with goals less than $5000 are more successful. 
 
-
+![alt text](Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 ##### What are some limitations of this dataset?
