@@ -10,11 +10,12 @@
 ---
 ## **Analysis and Challenges**
 ##### *Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.*
-##### Filter the Data omit data we aren't interested in
-##### Format the Spreadsheet to show percentages
+
 ##### First I formatted my data to separate the main categories to focus on Kickstarter projects similar to my client's theatre play. Formatting also allowed me to highlight those campaign's outcomes; successful, canceled and failed.  I changed the the campaign launch dates to readable format as opposed to the UNIX timestamp displayed in the data. I created new columns that shows the years based on data in the "launched at" column.   
 
 ##### Next, to show Theatre outcomes in relation to their launch dates, I created and filtered a pivot table based on the “Parent Category” "Theatre" and "years".  I listed "outcomes" and "date created conversion" in the columns and rows field. I filtered the date created coversion by months to show the best and worst times to launch a Theatre Kickstarter campaign.  
+
+##### It was very challenging to display the outcomes by month since it was not a separate column on my spreadhsheet. This piece of information was important because without it, I would not be able to tell my client when the most successful launch dates were. I was eventually able to filter the "Date Created Conversion" on the pivot table to display the count of kickstarter outcomes by months. 
 
 ### ![alt text](outcomeslaunchpivotfields.PNG) -  ![alt text](theatreoutcomelaunchpivot.PNG)
 
