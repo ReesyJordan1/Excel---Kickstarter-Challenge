@@ -10,8 +10,8 @@
 ---
 ## Analysis and Challenges
 ##### Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
-Filter the Data omit data we aren't interested in
-Format the Spreadsheet to show percentages
+##### Filter the Data omit data we aren't interested in
+##### Format the Spreadsheet to show percentages
 
 ### Analysis of Outcomes Based on Launch Date
 ##### 	From the Outcomes Based on Goals chart we can see that Theatre Kickstarter campaigns were mostly successful if launched in May and June.  
