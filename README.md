@@ -25,8 +25,7 @@
 
 
 ![alt text](outcomesgoalschart.PNG) 
-
-![alt text](outcomebasedongoalerror.png) 
+here
 
 ### Analysis of Outcomes Based on Launch Date
 ##### *What are two conclusions you can draw about the Theater Outcomes by Launch Date?*
