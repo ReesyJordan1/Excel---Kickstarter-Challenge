@@ -28,9 +28,13 @@
 
 ![alt text](outcomebasedongoalerror.png) 
 
+## **Results**
+
 ### Analysis of Outcomes Based on Launch Date
 ##### *What are two conclusions you can draw about the Theater Outcomes by Launch Date?*
-##### 	From the Outcomes Based on Goals chart we can see that Theatre Kickstarter campaigns were mostly successful if launched in May and June.  
+##### 	From the Outcomes Based on Goals chart we can see that Theatre Kickstarter campaigns were mostly successful if launched in May and June. Our client launched her project in July. More than 65% of campaigns that launch in May and June were successful.  63% of campaigns launched in July were successful.  Our client launched her campaign in July and may have had a successful campaign if he launched her campaign earlier. 
+
+![alt text](feverplay.PNG)
 
 ![alt text](Theater_Outcomes_vs_Launch.png)
 
@@ -42,13 +46,9 @@
 
 ### Challenges and Difficulties Encountered
 ##### *What are some limitations of this dataset?*
-##### We are unable to if the length of the campaign has any relation to its campaign success or failure. 
+##### We are unable see from the charts if the length of the campaign has any relation to its campaign success or failure. 
 	
 ##### *What are some other possible tables and/or graphs that we could create?* 
 ---
-## **Results**
-
-
-![alt text](feverplay.PNG)
 
 
