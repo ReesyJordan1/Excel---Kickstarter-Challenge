@@ -9,25 +9,35 @@
 ##### To answer this question we need to determine the Kickstarter outcomes based on launch date and the Kickstarter outcomes based on goals for theatre plays. The "Outcomes" tells us if the Kickstarter campaign met its goal.  "Goals" tells us how much money each campaign will need to succeed.
 ---
 ## **Analysis and Challenges**
-##### Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+##### *Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.*
 ##### Filter the Data omit data we aren't interested in
 ##### Format the Spreadsheet to show percentages
+First I formated my data to separate my categories so that I could focus on Kickstarter projects similar to my client's play. Formatting also allowed me to highlight those campaign's outcomes; successful, canceled and failed.  I changed the the campaign launch dates to readable format as opposed to the UNIX timestamp displayed in the data. I created new columns that shows the years based on data in the "launched at" column.   
+
+Next, to show Theatre outcomes in relation to their launch dates, I created and filtered a pivot table based on the “Parent Category” "Theatre" and "years".  I listed "outcomes" and "date created conversion" in the columns and rows field. I filtered the date created coversion by months to show the best and worst times to launch a Theatre Kickstarter campaign
+
+Lesson 1.3.2: Create a chart from a pivot table.
+Lesson 1.3.2: Annotate and save charts as a PNG.
+Lesson 1.3.3.: Reducing the number of items in the Rows field to a single item.
+
 
 ### Analysis of Outcomes Based on Launch Date
+##### *What are two conclusions you can draw about the Theater Outcomes by Launch Date?*
 ##### 	From the Outcomes Based on Goals chart we can see that Theatre Kickstarter campaigns were mostly successful if launched in May and June.  
 
 ![alt text](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+##### *What can you conclude about the Outcomes based on Goals?*
 ##### Theatre Kickstarter campaigns with goals less than $5000 are more successful. 
 
 ![alt text](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-##### What are some limitations of this dataset?
+##### *What are some limitations of this dataset?*
 ##### We are unable to if the length of the campaign has any relation to its campaign success or failure. 
 	
-##### What are some other possible tables and/or graphs that we could create?
+##### *What are some other possible tables and/or graphs that we could create?* 
 ---
 ## **Results**
 
