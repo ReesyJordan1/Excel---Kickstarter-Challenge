@@ -17,7 +17,9 @@
 
 ##### It was very challenging to display the outcomes by month since it was not a separate column on my spreadhsheet. This piece of information was important because without it, I would not be able to tell my client when the most successful launch dates were. I was eventually able to filter the "Date Created Conversion" on the pivot table to display the count of kickstarter outcomes by months. 
 
+
 ### ![alt text](outcomeslaunchpivotfields.PNG) -  ![alt text](theatreoutcomelaunchpivot.PNG)
+
 
 ##### In order to show outcomes based on Kickstrarter Goals, I divided possible goals into goal buckets ranging from "less than $1000" USD to "$50000 or more" as seen on the table below.  Next using the COUNTIFS function,   calculated the number of successful, failed and canceled theatre plays within each goal bucket. To clearly visualize the goal amounts of the most and least successful campaigns, I calculated the percentages of the outcomes of each goal bucket by dividing the outcomes by thhe total projects in each goal bucket. 
 
@@ -28,21 +30,26 @@
 
 ![alt text](outcomebasedongoalerror.png) 
 
+
 ## **Results**
 
 ### Analysis of Outcomes Based on Launch Date
 ##### *What are two conclusions you can draw about the Theater Outcomes by Launch Date?*
 ##### 	From the Outcomes Based on Goals chart we can see that Theatre Kickstarter campaigns were mostly successful if launched in May and June. Our client launched her project in July. More than 65% of campaigns that launch in May and June were successful.  63% of campaigns launched in July were successful.  Our client launched her campaign in July and may have had a successful campaign if he launched her campaign earlier. 
 
+
 ![alt text](feverplay.PNG)
 
 ![alt text](Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 ##### *What can you conclude about the Outcomes based on Goals?*
 ##### Theatre Kickstarter campaigns with goals less than $5000 are more successful. 
 
+
 ![alt text](Outcomes_vs_Goals.png)
+
 
 ### Challenges and Difficulties Encountered
 ##### *What are some limitations of this dataset?*
