@@ -1,12 +1,12 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Kickstarter is where creators share new new projects, ideas and products to raise funding for them. Creators set a funding goal, launch date and a deadline. They also create reward levels for backers who pledge specific amounts. The more a backer pledges, the bigger the reward for the indiviual who donated. When backers have contributed enough to  a creator's project, the creator can successfully produce their vision. 
+##### Kickstarter is where creators share new new projects, ideas and products to raise funding for them. Creators set a funding goal, launch date and a deadline. They also create reward levels for backers who pledge specific amounts. The more a backer pledges, the bigger the reward for the indiviual who donated. When backers have contributed enough to  a creator's project, the creator can successfully produce their vision. 
 ---
 ### Purpose
-Our client's theatre play "Fever" came close to its Kickstarter fundraising goal in a short amount of time.  The client wanted to know how other theatre Kickstarter campaigns performed in relation to their launch dates and their funding goals. 
+#####Our client's theatre play "Fever" came close to its Kickstarter fundraising goal in a short amount of time.  The client wanted to know how other theatre Kickstarter campaigns performed in relation to their launch dates and their funding goals. 
 
-To answer this question we need to determine the Kickstarter outcomes based on launch date and the Kickstarter outcomes based on goals for theatre plays. The "Outcomes" tells us if the Kickstarter campaign met its goal.  "Goals" tells us how much money each campaign will need to succeed.
+##### To answer this question we need to determine the Kickstarter outcomes based on launch date and the Kickstarter outcomes based on goals for theatre plays. The "Outcomes" tells us if the Kickstarter campaign met its goal.  "Goals" tells us how much money each campaign will need to succeed.
 ---
 ## Analysis and Challenges
 
