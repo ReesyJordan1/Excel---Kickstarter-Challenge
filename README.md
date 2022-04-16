@@ -16,6 +16,8 @@
 
 ##### Next, to show Theatre outcomes in relation to their launch dates, I created and filtered a pivot table based on the “Parent Category” "Theatre" and "years".  I listed "outcomes" and "date created conversion" in the columns and rows field. I filtered the date created coversion by months to show the best and worst times to launch a Theatre Kickstarter campaign.  
 
+### ![alt text](outcomeslaunchpivotfields.PNG) -  ![alt text](theatreoutcomelaunchpivot.PNG)
+
 ##### In order to show outcomes based on Kickstrarter Goals, I divided possible goals into goal buckets ranging from "less than $1000" USD to "$50000 or more" as seen on the table below.  Next using the COUNTIFS function,   calculated the number of successful, failed and canceled theatre plays within each goal bucket. To clearly visualize the goal amounts of the most and least successful campaigns, I calculated the percentages of the outcomes of each goal bucket by dividing the outcomes by thhe total projects in each goal bucket. 
 
 ![alt text](outcomesgoalschart.PNG) 
