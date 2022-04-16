@@ -21,6 +21,9 @@
 
 ##### In order to show outcomes based on Kickstrarter Goals, I divided possible goals into goal buckets ranging from "less than $1000" USD to "$50000 or more" as seen on the table below.  Next using the COUNTIFS function,   calculated the number of successful, failed and canceled theatre plays within each goal bucket. To clearly visualize the goal amounts of the most and least successful campaigns, I calculated the percentages of the outcomes of each goal bucket by dividing the outcomes by thhe total projects in each goal bucket. 
 
+##### One challenged I faced when attempting to visualize the "outcomes based on goals" was calculating the outcomes using the COUNTIFS formula. When I made my first attempt to use this formula, I left a very important criteria out of my formula; the subcartegory of "plays".  If I didn't catch this mistake my presentation to the client would'nt be accurate. 
+
+
 ![alt text](outcomesgoalschart.PNG) 
 
 
@@ -44,6 +47,8 @@
 ##### *What are some other possible tables and/or graphs that we could create?* 
 ---
 ## **Results**
+
+
 ![alt text](feverplay.PNG)
 
 
