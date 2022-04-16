@@ -20,13 +20,11 @@ Format the Spreadsheet to show percentages
 ##### Theatre Kickstarter campaigns with goals less than $5000 are more successful. 
 
 ### Challenges and Difficulties Encountered
-What are some limitations of this dataset?
-	1. We are unable to if the length of the campaign has any relation to its campaign success or failure. 
+##### What are some limitations of this dataset?
+##### We are unable to if the length of the campaign has any relation to its campaign success or failure. 
 	
-What are some other possible tables and/or graphs that we could create?
+##### What are some other possible tables and/or graphs that we could create?
 
 ## Results
 
-
-What are some other possible tables and/or graphs that we could create?
 
