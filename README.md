@@ -26,8 +26,7 @@
 
 ![alt text](outcomesgoalschart.PNG) 
 
-![alt text](outcomebasedongoalerror.png)
-
+![alt text](outcomebasedongoalerror.png) 
 
 
 ### Analysis of Outcomes Based on Launch Date
