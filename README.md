@@ -56,8 +56,9 @@
 ##### We are unable see from the chart if the length of the campaign has any relation to its campaign success or failure. It could also be beneficial to be able to analyze keywords, reward types and promotional items in the campaigns to see if they had any effect on the amounts pledged by backers and capaign success.
 	
 ##### *What are some other possible tables and/or graphs that we could create?* 
+In order to determine the difference in length between successul and failed campaigns, I first calculated the number of days between the launch and end dates (Date Created Conversion and Date Ended Conversion columns).  Then using the COUNTIFs function, I compared the lengths of successsful and failed campaigns.
 ---
 ![alt text](campaignlengthformula.PNG)
 
-
+![alt text](SuccessfulbyCampaignLength.png)
 
