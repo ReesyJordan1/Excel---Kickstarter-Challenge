@@ -11,7 +11,7 @@
 ## **Analysis and Challenges**
 ##### *Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.*
 
-##### First I formatted my data to separate the main categories to focus on Kickstarter projects similar to my client's theatre play. Formatting also allowed me to highlight those campaign's outcomes; successful, canceled and failed.  I changed the the campaign launch dates to readable format as opposed to the UNIX timestamp displayed in the data. I created new columns that shows the years based on data in the "launched at" column.   
+##### First I formatted my data to separate categories to focus on Kickstarter projects similar to my client's theatre play. Formatting also allowed me to highlight those campaign's outcomes; successful, canceled and failed.  I changed the the campaign launch dates to a readable format as opposed to the UNIX timestamp displayed in the data. I created new columns that show the years based on data in the "launched at" column.   
 
 ##### Next, to show Theatre outcomes in relation to their launch dates, I created and filtered a pivot table based on the “Parent Category” "Theatre" and "years".  I listed "outcomes" and "date created conversion" in the columns and rows field. I filtered the date created coversion by months to show the best and worst times to launch a Theatre Kickstarter campaign.  
 
@@ -35,7 +35,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 ##### *What are two conclusions you can draw about the Theater Outcomes by Launch Date?*
-##### 	From the Outcomes Based on Goals chart we can see that Theatre Kickstarter campaigns were mostly successful if launched in May and June. Our client launched her project in July. More than 65% of campaigns that launch in May and June were successful.  63% of campaigns launched in July were successful.  Our client launched her campaign in July and may have had a successful campaign if he launched her campaign earlier. 
+##### 	From the "Outcomes Based on Launch Date" chart we can see that Theatre Kickstarter campaigns were mostly successful if launched in May and June. Our client launched her project in July. More than 65% of campaigns that launch in May and June were successful.  63% of campaigns launched in July were successful.  Our client launched her campaign in July and may have had a successful campaign if he launched her campaign two momths earlier. According to my analysis, approximately 35%-40% of Theatre Kickstarter campaigns fail. 
 
 
 ![alt text](feverplay.PNG)
@@ -53,7 +53,7 @@
 
 ### Challenges and Difficulties Encountered
 ##### *What are some limitations of this dataset?*
-##### We are unable see from the charts if the length of the campaign has any relation to its campaign success or failure. 
+##### We are unable see from the chart if the length of the campaign has any relation to its campaign success or failure. It could also be beneficial to be able to analyze keywords, reward types and promotional items in the campaigns to see if they had any effect on the amounts pledged by backers and capaign success.
 	
 ##### *What are some other possible tables and/or graphs that we could create?* 
 ---
